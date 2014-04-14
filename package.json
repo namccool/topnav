@@ -1,0 +1,14 @@
+{
+  "name": "topnav",
+  "description": "A responsive, reuseable navbar",
+  "repository": "git://github.com/mndvns/topnav.git <mail@mndvns.com>",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "stylus": "^0.43.1"
+  },
+  "devDependencies": {
+    "jade": "^1.3.1"
+  }
+}
